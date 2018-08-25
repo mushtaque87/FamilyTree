@@ -1,2 +1,2 @@
 # FamilyTree
-FamilyTree iOS App
+FamilyTree iOS App using CoreData
